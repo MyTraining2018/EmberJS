@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'myapp',
+    modulePrefix: 'loopyapp',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
